@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="resource.uisounds.androidtvUI" version="1.0.0" name="AndroidTV UI" provider-name="screwattackthis">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">GUI sounds for Android TV</summary>
+    <description lang="en">Enjoy a more immersive experience by using Android TV GUI Sounds in Kodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>

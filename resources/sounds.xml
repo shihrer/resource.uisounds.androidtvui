@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sounds>
+  <actions>
+    <action>
+      <name>left</name>
+      <file>pano_blip_alt.wav</file>
+    </action>
+    <action>
+      <name>right</name>
+      <file>pano_blip_alt.wav</file>
+    </action>
+    <action>
+      <name>up</name>
+      <file>pano_blip_alt.wav</file>
+    </action>
+    <action>
+      <name>down</name>
+      <file>pano_blip_alt.wav</file>
+    </action>
+    <action>
+      <name>close</name>
+      <file>pano_click.wav</file>
+    </action>
+    <action>
+      <name>select</name>
+      <file>pano_click.wav</file>
+    </action>
+    <action>
+      <name>parentdir</name>
+      <file>pano_click.wav</file>
+    </action>
+    <action>
+      <name>previousmenu</name>
+      <file>pano_click.wav</file>
+    </action>
+  </actions>
+  <windows>
+    <window>
+      <name>infodialog</name>
+      <activate>pano_error.wav</activate>
+    </window>
+  </windows>
+</sounds>
