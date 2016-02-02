@@ -1,0 +1,5 @@
+v1.0.1 (2016-02-02)
+- Modified sounds.xml to better fit Android TV UI experience.
+
+v1.0.0 (2016-02-01)
+- Initial release

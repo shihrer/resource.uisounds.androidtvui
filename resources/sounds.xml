@@ -18,19 +18,7 @@
       <file>pano_blip_alt.wav</file>
     </action>
     <action>
-      <name>close</name>
-      <file>pano_click.wav</file>
-    </action>
-    <action>
       <name>select</name>
-      <file>pano_click.wav</file>
-    </action>
-    <action>
-      <name>parentdir</name>
-      <file>pano_click.wav</file>
-    </action>
-    <action>
-      <name>previousmenu</name>
       <file>pano_click.wav</file>
     </action>
   </actions>
